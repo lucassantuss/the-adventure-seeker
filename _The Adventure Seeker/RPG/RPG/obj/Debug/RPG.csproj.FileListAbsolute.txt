@@ -1,0 +1,500 @@
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Configuracoes.resources
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Jogadores.resources
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa1.resources
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa2.resources
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa3.resources
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa4.resources
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.RPG.resources
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.TelaInicial.resources
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.exe
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.pdb
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.exe.config
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.exe
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.pdb
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.exe.config
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.exe
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.pdb
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Configuracoes.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Jogadores.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa1.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa3.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa4.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.RPG.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.TelaInicial.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.exe
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.pdb
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.exe.config
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.exe
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.pdb
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Configuracoes.resources
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Jogadores.resources
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa1.resources
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa3.resources
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa4.resources
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.RPG.resources
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.TelaInicial.resources
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.exe
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.pdb
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\Interop.WMPLib.dll
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\AxInterop.WMPLib.dll
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.ResolveComReference.cache
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\Interop.WMPLib.dll
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\AxInterop.WMPLib.dll
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\Interop.WMPLib.dll
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\AxInterop.WMPLib.dll
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.ResolveComReference.cache
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\MySql.Data.dll
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\MySql.Data.xml
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\Interop.WMPLib.dll
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\AxInterop.WMPLib.dll
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.CopyComplete
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\MySql.Data.dll
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\MySql.Data.xml
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\Interop.WMPLib.dll
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\AxInterop.WMPLib.dll
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\Interop.WMPLib.dll
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\AxInterop.WMPLib.dll
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.ResolveComReference.cache
+G:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.CopyComplete
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\MySql.Data.xml
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.CopyComplete
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.TelaBatalha.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\MySql.Data.dll
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\Google.Protobuf.dll
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\BouncyCastle.Crypto.dll
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\Renci.SshNet.dll
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.TelaBatalha.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Sobre.resources
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Sobre.resources
+D:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa5.resources
+F:\Escola\2ºAno\Técnico\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa5.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\MySql.Data.dll
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\MySql.Data.xml
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\Interop.WMPLib.dll
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\Interop.WMPLib.dll
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.ResolveComReference.cache
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Configuracoes.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Jogadores.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa1.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa5.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa3.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa4.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.RPG.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Sobre.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.TelaBatalha.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.TelaInicial.resources
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.CopyComplete
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\ETECLG\Desktop\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.pdb
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\MySql.Data.dll
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\Google.Protobuf.dll
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\Renci.SshNet.dll
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\MySql.Data.xml
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\Interop.WMPLib.dll
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\Interop.WMPLib.dll
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.ResolveComReference.cache
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Configuracoes.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Jogadores.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa1.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa5.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa3.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Mapa4.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.RPG.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.Sobre.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.TelaBatalha.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.TelaInicial.resources
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.csproj.CopyComplete
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\augus\Documents\MiniTCC\Trabalho em Grupo 2EETIM AN,TEB,LPO\RPG\RPG\obj\Debug\RPG.pdb
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\Interop.WMPLib.dll
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.csproj.ResolveComReference.cache
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.Configuracoes.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.Jogadores.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.Mapa1.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.Mapa5.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.Mapa3.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.Mapa4.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.RPG.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.Sobre.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.TelaBatalha.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.TelaInicial.resources
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\lucas\3D Objects\Projeto\RPG\RPG\obj\Debug\RPG.pdb
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\RPG.exe
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\RPG.pdb
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\netstandard.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.AppContext.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Collections.Concurrent.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Collections.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Collections.NonGeneric.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Collections.Specialized.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.ComponentModel.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Console.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Data.Common.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.Debug.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.Process.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.Tools.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Drawing.Primitives.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Dynamic.Runtime.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Globalization.Calendars.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Globalization.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Globalization.Extensions.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.Compression.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.FileSystem.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.Pipes.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Linq.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Linq.Expressions.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Linq.Parallel.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Linq.Queryable.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.Http.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.NameResolution.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.NetworkInformation.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.Ping.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.Primitives.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.Requests.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.Security.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.Sockets.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Net.WebSockets.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.ObjectModel.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Reflection.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Reflection.Extensions.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Reflection.Primitives.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Resources.Reader.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Resources.ResourceManager.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Resources.Writer.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.Extensions.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.Handles.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.InteropServices.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.Numerics.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Claims.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Principal.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.SecureString.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Text.Encoding.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Text.RegularExpressions.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Threading.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Threading.Overlapped.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Threading.Tasks.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Threading.Thread.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Threading.ThreadPool.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Threading.Timer.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.ValueTuple.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Xml.XDocument.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Xml.XmlDocument.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Xml.XPath.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\Google.Protobuf.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\K4os.Compression.LZ4.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\K4os.Hash.xxHash.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\MySql.Data.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Buffers.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.Pipelines.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Memory.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Numerics.Vectors.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.Loader.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.AccessControl.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Permissions.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Principal.Windows.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Text.Json.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\ZstdSharp.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\Google.Protobuf.pdb
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\Google.Protobuf.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\K4os.Compression.LZ4.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\K4os.Hash.xxHash.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Buffers.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.IO.Pipelines.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Memory.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Numerics.Vectors.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.AccessControl.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Permissions.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Security.Principal.Windows.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Text.Json.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\AxInterop.WMPLib.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.exe.config
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\Interop.WMPLib.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\AxInterop.WMPLib.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.csproj.ResolveComReference.cache
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.Configuracoes.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.Jogadores.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.Mapa1.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.Mapa5.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.Mapa3.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.Mapa4.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.RPG.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.Sobre.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.TelaBatalha.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.TelaInicial.resources
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.csproj.Up2Date
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.exe
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\obj\Debug\RPG.pdb
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\Interop.WMPLib.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\MySql.Data.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\BouncyCastle.Crypto.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\Renci.SshNet.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\Ubiety.Dns.Core.dll
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\Renci.SshNet.xml
+C:\Projetos\The Adventure Seeker\Projeto\RPG\RPG\bin\Debug\ZstdNet.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\RPG.exe
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\RPG.pdb
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\netstandard.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.AppContext.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Collections.Concurrent.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Collections.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Collections.NonGeneric.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Collections.Specialized.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.ComponentModel.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Console.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Data.Common.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.Debug.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.Process.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.Tools.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Drawing.Primitives.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Dynamic.Runtime.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Globalization.Calendars.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Globalization.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Globalization.Extensions.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.Compression.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.FileSystem.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.Pipes.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Linq.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Linq.Expressions.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Linq.Parallel.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Linq.Queryable.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.Http.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.NameResolution.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.NetworkInformation.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.Ping.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.Primitives.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.Requests.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.Security.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.Sockets.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Net.WebSockets.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.ObjectModel.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Reflection.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Reflection.Extensions.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Reflection.Primitives.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Resources.Reader.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Resources.ResourceManager.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Resources.Writer.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.Extensions.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.Handles.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.InteropServices.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.Numerics.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Claims.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Principal.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.SecureString.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Text.Encoding.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Text.RegularExpressions.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Threading.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Threading.Overlapped.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Threading.Tasks.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Threading.Thread.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Threading.ThreadPool.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Threading.Timer.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.ValueTuple.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Xml.XDocument.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Xml.XmlDocument.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Xml.XPath.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\BouncyCastle.Crypto.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\Google.Protobuf.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\K4os.Compression.LZ4.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\K4os.Hash.xxHash.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\MySql.Data.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\Renci.SshNet.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Buffers.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.Pipelines.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Memory.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Numerics.Vectors.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.Loader.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.AccessControl.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Permissions.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Principal.Windows.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Text.Json.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\Ubiety.Dns.Core.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\ZstdNet.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\ZstdSharp.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\Google.Protobuf.pdb
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\Google.Protobuf.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\K4os.Compression.LZ4.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\K4os.Hash.xxHash.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\MySql.Data.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\Renci.SshNet.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Buffers.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.IO.Pipelines.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Memory.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Numerics.Vectors.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.AccessControl.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Permissions.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Security.Principal.Windows.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Text.Json.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\Interop.WMPLib.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\bin\Debug\AxInterop.WMPLib.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.exe.config
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\Interop.WMPLib.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\AxInterop.WMPLib.dll
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.csproj.ResolveComReference.cache
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.Configuracoes.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.Jogadores.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.Mapa1.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.Mapa5.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.Mapa3.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.Mapa4.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.RPG.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.Sobre.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.TelaBatalha.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.TelaInicial.resources
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.csproj.Up2Date
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.exe
+C:\Projetos\The Adventure Seeker\_The Adventure Seeker\RPG\RPG\obj\Debug\RPG.pdb
