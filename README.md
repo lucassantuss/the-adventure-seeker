@@ -15,13 +15,13 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="./assets/img/screens/screen01.jpg" alt="Screen 1" width="400px">
-    <img src="./assets/img/screens/screen02.png" alt="Screen 2" width="467px">
-    <img src="./assets/img/screens/screen03.jpg" alt="Screen 3" width="350px">
-    <img src="./assets/img/screens/screen04.jpg" alt="Screen 4" width="450px">
+    <img src="./assets/img/screens/screen01.jpg" alt="Screen 1" width="370px">
+    <img src="./assets/img/screens/screen02.png" alt="Screen 2" width="430px">
+    <img src="./assets/img/screens/screen03.jpg" alt="Screen 3" width="330px">
+    <img src="./assets/img/screens/screen04.jpg" alt="Screen 4" width="424px">
     <img src="./assets/img/screens/screen05.jpg" alt="Screen 5" width="400px">
     <img src="./assets/img/screens/screen06.jpg" alt="Screen 6" width="400px">
-    <img src="./assets/img/screens/screen07.jpg" alt="Screen 7" width="450px">
+    <img src="./assets/img/screens/screen07.jpg" alt="Screen 7" width="460px">
 </p>
 
 <h2 id="tech">💻 Technologies</h2>
